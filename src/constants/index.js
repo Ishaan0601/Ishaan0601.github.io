@@ -134,20 +134,20 @@ const experiences = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "UTDesign Tool Crib",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based dashbaord that allows UTDesign Admins to checkout out and in tools for studio teams as well as add, create, edit, or delete team and tool data form the database.",
     tags: [
       {
-        name: "react",
+        name: "Node.js",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "React.js",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "MySQL",
         color: "pink-text-gradient",
       },
     ],
@@ -155,20 +155,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "MoneyMonkey IOS App",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A mobile ios application that allowed the user to input their various investments (stocks, real estate, etc) and provided financial tips based on their portfolio diversification.",
     tags: [
       {
-        name: "react",
+        name: "Swift",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "HackUTD IX",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "XCode",
         color: "pink-text-gradient",
       },
     ],
@@ -176,20 +176,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "NBA Roster Tool",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A web-application that reads json data of NBA team and individual player data to compare relevant statistics and create potential rosters through the interactive interface.",
     tags: [
       {
-        name: "nextjs",
+        name: "React.js",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Material UI",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "JSON",
         color: "pink-text-gradient",
       },
     ],

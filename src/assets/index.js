@@ -28,7 +28,7 @@ import redCross from "./company/redCross.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import tripguide from "./tripguide.jpg";
 
 export {
   logo,
