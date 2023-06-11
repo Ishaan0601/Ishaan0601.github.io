@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Frontend Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Backend Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Database Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Student",
     icon: creator,
   },
 ];
@@ -152,7 +152,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Ishaan0601/utd-tool-crib",
   },
   {
     name: "MoneyMonkey IOS App",
@@ -173,7 +173,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Ishaan0601/Money_Monkey---IOS-App",
   },
   {
     name: "NBA Roster Tool",
