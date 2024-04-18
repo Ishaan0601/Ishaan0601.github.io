@@ -23,6 +23,9 @@ import {
   jobit,
   tripguide,
   threejs,
+  convergentLogo,
+  Paycom,
+  kpmg,
 } from "../assets";
 
 export const navLinks = [
@@ -103,6 +106,45 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: "Incoming Data Architecture & Engineering Intern",
+    company_name: "KPMG",
+    icon: kpmg,
+    //iconBg: "#383E56",
+    iconBg: "#Ffffff",
+    date: "June 2024 - August 2024",
+    // points: [
+    //   "Led a cross-functional team of 5 software engineers, 2 product managers, and 2 UI/UX designers in the development of a mobile application aimed at promoting exploration of Austin’s unique attractions.",
+    //   "Pioneered the integration of Augmented Reality (AR) technology within the application, enhancing user engagement by providing an immersive experience when visiting different locations.",
+    //   "Guided the strategic implementation of a tech stack, utilizing React Native for the frontend, Firebase for the backend, and Clerk Auth tokens for secure user authentication.",
+    // ],
+  },
+  {
+    title: "Software Engineer",
+    company_name: "UT Austin Convergent",
+    icon: convergentLogo,
+    //iconBg: "#383E56",
+    iconBg: "#E6DEDD",
+    date: "August 2023 - Present",
+    points: [
+      "Led a cross-functional team of 5 software engineers, 2 product managers, and 2 UI/UX designers in the development of a mobile application aimed at promoting exploration of Austin’s unique attractions.",
+      "Pioneered the integration of Augmented Reality (AR) technology within the application, enhancing user engagement by providing an immersive experience when visiting different locations.",
+      "Guided the strategic implementation of a tech stack, utilizing React Native for the frontend, Firebase for the backend, and Clerk Auth tokens for secure user authentication.",
+    ],
+  },
+  {
+    title: "Technology Summer Engagement Apprentice",
+    company_name: "Paycom",
+    icon: Paycom,
+    //iconBg: "#383E56",
+    iconBg: "#E6DEDD",
+    date: "July 2023",
+    points: [
+      "Designed and developed an interactive to-do list application using PHP, HTML, CSS, and MySQL, providing users with a streamlined and efficient task management system.",
+      "Participated in a comprehensive training program focused on Paycom’s application security, gaining in-depth knowledge of industry best practices of preventing emerging threats and security protocols.",
+      "Acquired hands-on experience in C#, React.js, PHP, and SwiftUI mobile development through practical projects.",
+    ],
+  },
   {
     title: "Software Engineer Intern",
     company_name: "UTDesign",
