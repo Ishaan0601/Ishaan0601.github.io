@@ -32,7 +32,7 @@ import tripguide from "./tripguide.jpg";
 
 import kpmg from "./company/kpmg.png";
 import convergentLogo from "./company/convergentLogo.png";
-import Paycom from "./company/paycom.png";
+import Paycom from "./company/Paycom.png";
 
 export {
   logo,
