@@ -30,6 +30,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.jpg";
 
+import kpmg from "./company/kpmg.png";
+import convergentLogo from "./company/convergentLogo.png";
+import Paycom from "./company/paycom.png";
+
 export {
   logo,
   backend,
@@ -59,4 +63,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  kpmg,
+  convergentLogo,
+  Paycom,
 };
