@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Hi, my name is Ishaan Virani and I am a motivated and dedicated student of computer science at The University of Texas at Dallas. My educational pursuits are centered on gaining a deep understanding of the theories and practices of computer science, with a focus on software development.
+        Hi, my name is Ishaan Virani and I am a motivated and dedicated student of computer science at The University of Texas at Austin. My educational pursuits are centered on gaining a deep understanding of the theories and practices of computer science, with a focus on software development.
 
 As an aspiring software developer, I possess a wealth of knowledge and practical experience in a variety of programming languages, including Java, Javascript, C++, Python, HTML/CSS, and Swift. My technical proficiency is supplemented by a strong work ethic and attention to detail, allowing me to deliver high-quality results consistently.
 

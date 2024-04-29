@@ -23,6 +23,9 @@ import {
   jobit,
   tripguide,
   threejs,
+  convergent,
+  paycom,
+  kpmg
 } from "../assets";
 
 export const navLinks = [
@@ -104,6 +107,45 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Incoming Audit Data Architecture and Engineering Intern",
+    company_name: "KPMG",
+    icon: kpmg,
+    //iconBg: "#383E56",
+    iconBg: "#E6DEDD",
+    date: "June 2024 - August 2024",
+    points: [
+      // "Worked in a cross-functional team of 5 software engineers, 2 product managers, and 2 UI/UX designers in the development of a mobile application aimed at promoting exploration of Austin’s unique attractions",
+      // "Assisted in the integration of Augmented Reality (AR) technology within the application, enhancing user engagement by providing an immersive experience when visiting different locations",
+      // "Guided the strategic implementation of a tech stack, utilizing React Native for the frontend, Firebase for the backend database, and Clerk Auth tokens for secure user authentication",
+    ],
+  },
+  {
+    title: "Software Engineer",
+    company_name: "Texas Convergent",
+    icon: convergent,
+    //iconBg: "#383E56",
+    iconBg: "#E6DEDD",
+    date: "January 2024 - Present",
+    points: [
+      "Worked in a cross-functional team of 5 software engineers, 2 product managers, and 2 UI/UX designers in the development of a mobile application aimed at promoting exploration of Austin’s unique attractions",
+      "Assisted in the integration of Augmented Reality (AR) technology within the application, enhancing user engagement by providing an immersive experience when visiting different locations",
+      "Guided the strategic implementation of a tech stack, utilizing React Native for the frontend, Firebase for the backend database, and Clerk Auth tokens for secure user authentication",
+    ],
+  },
+  {
+    title: "Technology Summer Engagement Fellow",
+    company_name: "Paycom",
+    icon: paycom,
+    //iconBg: "#383E56",
+    iconBg: "#E6DEDD",
+    date: "July 2023",
+    points: [
+      "Designed and developed an interactive to-do list application using PHP, HTML, CSS, and MySQL, providing users with a streamlined and efficient task management system",
+      "Participated in a comprehensive training program focused on Paycom’s application security, gaining in-depth knowledge of industry best practices of preventing emerging threats and security protocols",
+      "Acquired hands-on experience in C#, React.js, PHP, and SwiftUI mobile development through practical projects",
+    ],
+  },
+  {
     title: "Software Engineer Intern",
     company_name: "UTDesign",
     icon: UTDesign,
@@ -117,7 +159,7 @@ const experiences = [
     ],
   },
   {
-    title: "Youth Placement Coordinator, Youth Placement Specialist",
+    title: "Youth Placement Coordinator, Volunteer",
     company_name: "The American Red Cross",
     icon: redCross,
     iconBg: "#E6DEDD",

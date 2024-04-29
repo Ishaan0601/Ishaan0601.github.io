@@ -25,6 +25,12 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import UTDesign from "./company/UTDesign.png";
 import redCross from "./company/redCross.png";
+import convergent from "./company/convergent.png";
+import paycom from "./company/paycom.png";
+import kpmg from "./company/kpmg.png";
+
+
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -59,4 +65,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  convergent,
+  paycom,
+  kpmg
 };
